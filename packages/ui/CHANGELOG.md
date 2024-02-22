@@ -1,5 +1,11 @@
 # @lorcan-test/ui
 
+## 0.3.0
+
+### Minor Changes
+
+- e361f6a: New version
+
 ## 0.2.0
 
 ### Minor Changes
