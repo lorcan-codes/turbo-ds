@@ -1,5 +1,5 @@
 {
-  "extends": "@lorcan-test/typescript-config/react-library.json",
+  "extends": "@yuki-labs/test-typescript-config/react-library.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }

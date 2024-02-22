@@ -19,7 +19,7 @@ importers:
 
   apps/docs:
     dependencies:
-      "@lorcan-test/ui":
+      "@yuki-labs/test-ui":
         specifier: workspace:*
         version: link:../../packages/ui
       react:
@@ -29,10 +29,10 @@ importers:
         specifier: ^18.2.0
         version: 18.2.0(react@18.2.0)
     devDependencies:
-      "@lorcan-test/eslint-config":
+      "@yuki-labs/test-eslint-config":
         specifier: workspace:*
         version: link:../../packages/eslint-config
-      "@lorcan-test/typescript-config":
+      "@yuki-labs/test-typescript-config":
         specifier: workspace:*
         version: link:../../packages/typescript-config
       "@storybook/addon-actions":
@@ -94,10 +94,10 @@ importers:
 
   packages/ui:
     devDependencies:
-      "@lorcan-test/eslint-config":
+      "@yuki-labs/test-eslint-config":
         specifier: workspace:*
         version: link:../eslint-config
-      "@lorcan-test/typescript-config":
+      "@yuki-labs/test-typescript-config":
         specifier: workspace:*
         version: link:../typescript-config
       "@types/react":

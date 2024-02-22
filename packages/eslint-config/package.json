@@ -1,7 +1,6 @@
 {
-  "name": "@lorcan-test/eslint-config",
+  "name": "@yuki-labs/test-eslint-config",
   "version": "0.0.0",
-  "private": true,
   "files": [
     "library.js",
     "react.js",
