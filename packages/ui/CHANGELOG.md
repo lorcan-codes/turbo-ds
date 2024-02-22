@@ -1,5 +1,11 @@
 # @lorcan-test/ui
 
+## 1.1.0
+
+### Minor Changes
+
+- add59a0: Integrated shadcn and tailwind
+
 ## 1.0.0
 
 ### Major Changes

@@ -1,5 +1,11 @@
 # @lorcan-test/eslint-config
 
+## 0.3.0
+
+### Minor Changes
+
+- add59a0: Integrated shadcn and tailwind
+
 ## 0.2.0
 
 ### Minor Changes
