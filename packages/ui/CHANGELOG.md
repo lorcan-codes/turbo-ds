@@ -1,5 +1,11 @@
 # @lorcan-test/ui
 
+## 1.0.0
+
+### Major Changes
+
+- a31cd5a: sadfsd
+
 ## 0.4.0
 
 ### Minor Changes
