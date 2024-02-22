@@ -6,5 +6,6 @@
   "linked": [],
   "access": "public",
   "updateInternalDependencies": "patch",
-  "ignore": ["@lorcan-test/docs"]
+  "ignore": ["@lorcan-test/docs"],
+  "baseBranch": "main"
 }
