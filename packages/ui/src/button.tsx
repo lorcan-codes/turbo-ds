@@ -3,9 +3,20 @@ export interface ButtonProps
   children: React.ReactNode;
 }
 
-export function Button({ children, ...other }: ButtonProps): JSX.Element {
+export function Button({
+  children,
+  style,
+  ...other
+}: ButtonProps): JSX.Element {
   return (
-    <button type="button" {...other}>
+    <button
+      style={{
+        fontSize: "20px",
+        ...style,
+      }}
+      type="button"
+      {...other}
+    >
       {children}
     </button>
   );
