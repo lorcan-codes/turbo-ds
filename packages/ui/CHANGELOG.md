@@ -1,5 +1,11 @@
 # @lorcan-test/ui
 
+## 1.2.0
+
+### Minor Changes
+
+- 571d5ef: Test
+
 ## 1.1.0
 
 ### Minor Changes
