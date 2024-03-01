@@ -1,5 +1,11 @@
 # @lorcan-test/eslint-config
 
+## 0.4.0
+
+### Minor Changes
+
+- 571d5ef: Test
+
 ## 0.3.0
 
 ### Minor Changes
